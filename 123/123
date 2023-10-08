@@ -1,1 +1,9 @@
+#!name=Node Detection Tool
+#!desc=适用于Loon的节点检测工具，可进行IP查询、多媒体检测等
+#!author=Loon
+#!homepage=https://github.com/Loon0x00/LoonExampleConfig
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Available_1.png
 
+[script]
+generic script-path=https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Resource/Script/Node_detection_tool/LocationDetection.js,tag=GeoLocation,timeout=10,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Domestic.png
+generic script-path=https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Resource/Script/Node_detection_tool/NodeUnlockDetection.js, tag=流媒体-节点解锁查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png
